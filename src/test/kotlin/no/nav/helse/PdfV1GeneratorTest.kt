@@ -133,7 +133,6 @@ class PdfV1GeneratorTest {
         )
     }
 
-
     private fun gyldigMelding(
         soknadId: String,
         sprak: String? = "nb",
